@@ -16,11 +16,3 @@
     - Right-click anywhere in Chrome.
     - Select **Marked Problems** from the context menu to view a list of all saved problems.
 
-## Video Overview
-
-Check out our project overview video on Loom.ai to see how problem-saver-extension works in action:
-[Watch Project Overview](https://www.loom.com/share/9bd8587ee8474f728d80f1db52af1308?sid=1424485c-625c-40c5-a3d3-624238a35d5f)
-
-## Contact
-
-For any questions or support regarding **Problem-saver-extension** , please feel free to reach out to us via email at <ganeshsm466@gmail.com>
